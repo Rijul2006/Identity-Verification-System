@@ -7,7 +7,9 @@ Unlike traditional centralized identity systems where third parties control user
 
 Project Vision:
 Our vision is to revolutionize digital identity management by creating a trustless, transparent, and user-centric identity verification ecosystem. We aim to eliminate the need for centralized identity providers, reduce identity fraud, and give individuals complete ownership of their credentials. This system will enable seamless verification of education, employment, certifications, and professional achievements across borders and platforms, fostering a more connected and trustworthy digital economy.
-Key Features
+
+Key Features:
+
 1. Self-Sovereign Identity
 
 Users have complete control over their identity and credentials
@@ -45,6 +47,7 @@ Immutable audit trail for compliance
 Public verification of issuer legitimacy
 
 Future Scope
+
 Phase 1: Enhanced Privacy
 
 Zero-Knowledge Proofs (ZKPs): Implement zk-SNARKs for true privacy-preserving verification
