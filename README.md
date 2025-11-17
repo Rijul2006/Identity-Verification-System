@@ -1,8 +1,11 @@
 Identity Verification System
-Project Description
+
+
+Project Description:
 The Decentralized Identity Verification System is a blockchain-based self-sovereign identity platform that empowers users to own and control their digital credentials. Built on Ethereum, this system allows trusted issuers (universities, employers, certification bodies) to cryptographically sign and issue verifiable credentials to users. Users maintain complete control over their identity data and can selectively share credentials with verifiers while ensuring authenticity and preventing fraud.
 Unlike traditional centralized identity systems where third parties control user data, this decentralized approach gives individuals full sovereignty over their credentials, ensuring privacy, security, and portability across platforms.
-Project Vision
+
+Project Vision:
 Our vision is to revolutionize digital identity management by creating a trustless, transparent, and user-centric identity verification ecosystem. We aim to eliminate the need for centralized identity providers, reduce identity fraud, and give individuals complete ownership of their credentials. This system will enable seamless verification of education, employment, certifications, and professional achievements across borders and platforms, fostering a more connected and trustworthy digital economy.
 Key Features
 1. Self-Sovereign Identity
