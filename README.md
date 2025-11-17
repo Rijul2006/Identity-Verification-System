@@ -46,7 +46,7 @@ All credential issuances and revocations recorded on blockchain
 Immutable audit trail for compliance
 Public verification of issuer legitimacy
 
-Future Scope
+Future Scope:
 
 Phase 1: Enhanced Privacy
 
@@ -82,7 +82,7 @@ Credential Templates: Standardized templates for common credential types
 Multi-Signature Credentials: High-value credentials requiring multiple issuer signatures
 
 
-Technical Stack
+Technical Stack:
 
 Smart Contracts: Solidity ^0.8.20
 Blockchain: Ethereum (compatible with EVM chains)
